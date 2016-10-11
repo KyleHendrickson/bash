@@ -1,1 +1,1 @@
-# bash
+# bootstraptemplate
